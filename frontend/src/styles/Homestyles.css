@@ -1,0 +1,57 @@
+/* styles.css */
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-image: url("C:\Users\WIN 10\Downloads\Proj\image\taxibook.jpg"); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .taxi-service-logo img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px;
+    background: #da0d0d; /* Background color for the logo container */
+    padding: 10px;
+  }
+  
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px;
+    color: #0b0101; /* Text color for the heading */
+  }
+  
+  .home-content {
+    margin: 20px;
+    background: rgba(255, 255, 255, 0.8); /* Background color with transparency for the content */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .action-link {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .action-link:hover {
+    background-color: #0056b3;
+  }
+  

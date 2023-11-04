@@ -1,0 +1,76 @@
+/* Query1Styles.css */
+
+.query1-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; /* Background color for the entire container */
+  }
+  
+  .query1-sub {
+    background-color: #fff; /* Background color for the form section */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Form styles */
+  .ant-form-item {
+    margin-bottom: 16px;
+  }
+  
+  /* Select styles */
+  .ant-select {
+    width: 100%;
+  }
+  
+  /* Button styles */
+  .ant-btn-primary {
+    background-color: #1890ff; /* Primary button color */
+    border-color: #1890ff;
+    color: #fff;
+  }
+  
+  /* Result table styles */
+  .query-result {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2; /* Table header background color */
+  }
+  
+  /* Responsive design for small screens */
+  @media (max-width: 768px) {
+    .query1-sub {
+      width: 90%;
+      padding: 15px;
+    }
+    h2 {
+      font-size: 20px;
+    }
+  }
+  
