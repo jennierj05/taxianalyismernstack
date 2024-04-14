@@ -1,13 +1,8 @@
 # taxianalyismernstack
 
 Hi this project I gonna share you taxi analysis using MERN stack
-TECH STACK include
-1)REACTJS
-2)NODEJS
-3)MONGODB
-4)EXPRESS
-5)BOOTSTRAP
-Home Page..
+
+
 ![Screenshot (473)](https://github.com/jennierj05/taxianalyismernstack/assets/149866579/4c470c19-f95c-40d0-a1ee-6b866f79a997)
 
 ![Screenshot (474)](https://github.com/jennierj05/taxianalyismernstack/assets/149866579/ee1c5381-83a6-4094-9465-7bc117f3835e)
@@ -27,4 +22,12 @@ Home Page..
 
 
 THANK YOU
+
+TECH STACK include
+1)REACTJS
+2)NODEJS
+3)MONGODB
+4)EXPRESS
+5)BOOTSTRAP
+Home Page..
 
